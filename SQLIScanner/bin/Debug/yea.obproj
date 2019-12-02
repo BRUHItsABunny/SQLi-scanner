@@ -1,0 +1,20 @@
+<Project ProjectFileVersion="4" UseRelativePaths="True" CheckVersionsWhileResolvingAssemblies="True" DisabledFromMSBuild="False" ID="{e1702173-f9f7-4c79-bc42-46f617576735}">
+  <SearchDirectories />
+  <OutputSettings OutputPath="..\..\..\..\..\..\..\Desktop" MainAssemblyPath="" RunAssemblyPath="" SNPath="" SignToolPath="" LicensingDLLPath="" OverwriteInputFiles="False" BuildID="" MapFilesLocation="" FullParamNamesInMappingFile="False">
+    <AdditionalAssemblies>
+      <AdditionalAssembly Path=".\HtmlAgilityPack.dll" Encrypt="False" Compress="True" />
+    </AdditionalAssemblies>
+  </OutputSettings>
+  <ExceptionReporting ExceptionReportingServiceURL="" TryToContinueOnException="True" LocalReportPath=".\yea_ExceptionReports" ApplicationName="" CompanyName="" ShowUI="True" EnableSaveToFileButton="True" EnableSendReportButton="True" />
+  <ObfuscationSettings RenamingScheme="2" UseOverloadedFieldNames="True" UseOverloadedMethodNames="True" HonorObfuscationAttributes="True" ExcludeSerializedTypes="True" ProcessInlineStrings="True" ForceXAMLProcessingModeExclude="False" ForceRenameParams="False" SymbolPrefix="" SymbolSuffix="" FakeFields="" FakeTypes="" FakeMethods="" EncryptionActive="True" CompressionActive="True" />
+  <ObfuscationRules />
+  <InclusionExclusionRules />
+  <Assembly Load="true" Path=".\SQLIScanner.exe" XapEntryName="" KeyFilePath="" KeyFileContainsPublicKeyOnly="False" CertFilePath="" TimeStampURL="" Rfc3161TimestampURL="False" Embed="True" AddExceptionReporting="False" PfxPassword="" PfxPasswordCert="" IsWinRTAssembly="False">
+    <ObfuscationSettings EncryptStrings="True" EncryptMethods="True" EncryptConstants="True" SuppressReflector="False" ReduceMetaData="False" ObfuscationDisposition="1" FlowObfuscation="3" CodeMasking="3" SuppressILDASM="True" SuppressReflection="False" CombineResources="True" EncryptResources="True" CompressResources="True" MarkAsSealed="False" EnableTamperDetection="True" EnableAntiDebugging="True" SymbolRenaming="True" HideExternalCalls="False" HideInternalCalls="False" GeneratePdbFile="True" ObfuscatePdbFileNames="True" IncludeLocalVariablesInPdbFile="False" Encrypt="False" Compress="False" MSBuild="False" ObfuscatedNamespace="A" RetainNamespace="False" ModuleInitializationMethod="" LicensingMerge="False" RemoveConstants="False">
+      <Watermarks Watermark0="" Watermark1="" Watermark2="" Watermark3="" Watermark4="" Watermark5="" Watermark6="" Watermark7="" Watermark8="" Watermark9="" />
+    </ObfuscationSettings>
+  </Assembly>
+  <WarningSuppressions />
+  <Warnings SaveWarningsToFile="" FailOnUnsuppressedWarning="False" SaveSuppressedWarnings="True" SaveUnsuppressedWarnings="True" />
+  <Filters />
+</Project>

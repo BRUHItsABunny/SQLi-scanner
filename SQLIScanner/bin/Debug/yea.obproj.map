@@ -1,0 +1,248 @@
+﻿<Mappings><Entry OldName="SQLIScanner.Form1.components" NewName="SQLIScanner.Form1.&#x3;" />
+<Entry OldName="SQLIScanner.Form1.groupBox1" NewName="SQLIScanner.Form1.&#x3;" />
+<Entry OldName="SQLIScanner.Form1.label2" NewName="SQLIScanner.Form1.&#x3;" />
+<Entry OldName="SQLIScanner.Form1.label1" NewName="SQLIScanner.Form1.&#xA;" />
+<Entry OldName="SQLIScanner.Form1.label4" NewName="SQLIScanner.Form1.&#x4;" />
+<Entry OldName="SQLIScanner.Form1.button4" NewName="SQLIScanner.Form1.&#x3;" />
+<Entry OldName="SQLIScanner.Form1.listBox1" NewName="SQLIScanner.Form1.&#x3;" />
+<Entry OldName="SQLIScanner.Form1.label5" NewName="SQLIScanner.Form1.&#x1;" />
+<Entry OldName="SQLIScanner.Form1.label6" NewName="SQLIScanner.Form1.&#xE;" />
+<Entry OldName="SQLIScanner.Form1.listBox2" NewName="SQLIScanner.Form1.&#xA;" />
+<Entry OldName="SQLIScanner.Form1.groupBox2" NewName="SQLIScanner.Form1.&#xA;" />
+<Entry OldName="SQLIScanner.Form1.button2" NewName="SQLIScanner.Form1.&#xA;" />
+<Entry OldName="SQLIScanner.Form1.button1" NewName="SQLIScanner.Form1.&#x4;" />
+<Entry OldName="SQLIScanner.Form1.groupBox3" NewName="SQLIScanner.Form1.&#x4;" />
+<Entry OldName="SQLIScanner.Form1.label8" NewName="SQLIScanner.Form1.&#x15;" />
+<Entry OldName="SQLIScanner.Form1.label7" NewName="SQLIScanner.Form1.&#x12;" />
+<Entry OldName="SQLIScanner.Form1.label10" NewName="SQLIScanner.Form1.&#x7;" />
+<Entry OldName="SQLIScanner.Form1.label9" NewName="SQLIScanner.Form1.&#x16;" />
+<Entry OldName="SQLIScanner.Form1.button6" NewName="SQLIScanner.Form1.&#x1;" />
+<Entry OldName="SQLIScanner.Form1.checkBox1" NewName="SQLIScanner.Form1.&#x3;" />
+<Entry OldName="SQLIScanner.Form1.listBox3" NewName="SQLIScanner.Form1.&#x4;" />
+<Entry OldName="SQLIScanner.Form1.button7" NewName="SQLIScanner.Form1.&#xE;" />
+<Entry OldName="SQLIScanner.Form1.textBox1" NewName="SQLIScanner.Form1.&#x3;" />
+<Entry OldName="SQLIScanner.Form1.comboBox1" NewName="SQLIScanner.Form1.&#x3;" />
+<Entry OldName="SQLIScanner.Form1.textBox2" NewName="SQLIScanner.Form1.&#xA;" />
+<Entry OldName="SQLIScanner.Form1.numericUpDown1" NewName="SQLIScanner.Form1.&#x3;" />
+<Entry OldName="SQLIScanner.Form1.groupBox4" NewName="SQLIScanner.Form1.&#x1;" />
+<Entry OldName="SQLIScanner.Form1.listBox4" NewName="SQLIScanner.Form1.&#x1;" />
+<Entry OldName="SQLIScanner.Form1.button9" NewName="SQLIScanner.Form1.&#x15;" />
+<Entry OldName="SQLIScanner.Form1.button8" NewName="SQLIScanner.Form1.&#x12;" />
+<Entry OldName="SQLIScanner.Form1.button11" NewName="SQLIScanner.Form1.&#x7;" />
+<Entry OldName="SQLIScanner.Form1.button10" NewName="SQLIScanner.Form1.&#x16;" />
+<Entry OldName="SQLIScanner.Form1.comboBox2" NewName="SQLIScanner.Form1.&#xA;" />
+<Entry OldName="SQLIScanner.Form1.label11" NewName="SQLIScanner.Form1.&#x1F;" />
+<Entry OldName="SQLIScanner.Form1.label3" NewName="SQLIScanner.Form1.&#x17;" />
+<Entry OldName="SQLIScanner.Form1.label13" NewName="SQLIScanner.Form1.&#x13;" />
+<Entry OldName="SQLIScanner.Form1.label12" NewName="SQLIScanner.Form1.	" />
+<Entry OldName="SQLIScanner.Form1.label16" NewName="SQLIScanner.Form1.&#x18;" />
+<Entry OldName="SQLIScanner.Form1.label15" NewName="SQLIScanner.Form1. " />
+<Entry OldName="SQLIScanner.Form1.label14" NewName="SQLIScanner.Form1.&#xC;" />
+<Entry OldName="SQLIScanner.Form1.button3" NewName="SQLIScanner.Form1.&#x1F;" />
+<Entry OldName="SQLIScanner.Form2.CP_NOCLOSE_BUTTON" NewName="SQLIScanner.Form2.&#x3;" />
+<Entry OldName="SQLIScanner.Form2.components" NewName="SQLIScanner.Form2.&#x3;" />
+<Entry OldName="SQLIScanner.Form2.pictureBox1" NewName="SQLIScanner.Form2.&#x3;" />
+<Entry OldName="SQLIScanner.Form2.textBox1" NewName="SQLIScanner.Form2.&#x3;" />
+<Entry OldName="SQLIScanner.Form2.label2" NewName="SQLIScanner.Form2.&#x3;" />
+<Entry OldName="SQLIScanner.Form2.label1" NewName="SQLIScanner.Form2.&#xA;" />
+<Entry OldName="SQLIScanner.Form2.button1" NewName="SQLIScanner.Form2.&#x3;" />
+<Entry OldName="SQLIScanner.Form2.button2" NewName="SQLIScanner.Form2.&#xA;" />
+<Entry OldName="SQLIScanner.Form3.components" NewName="SQLIScanner.Form3.&#x3;" />
+<Entry OldName="SQLIScanner.Form3.linkLabel1" NewName="SQLIScanner.Form3.&#x3;" />
+<Entry OldName="SQLIScanner.Form3.label1" NewName="SQLIScanner.Form3.&#x3;" />
+<Entry OldName="SQLIScanner.Form3.timer1" NewName="SQLIScanner.Form3.&#x3;" />
+<Entry OldName="SQLIScanner.Form3.label2" NewName="SQLIScanner.Form3.&#xA;" />
+<Entry OldName="SQLIScanner.Form3.label3" NewName="SQLIScanner.Form3.&#x4;" />
+<Entry OldName="SQLIScanner.Form4.allowRun" NewName="SQLIScanner.Form4.&#x3;" />
+<Entry OldName="SQLIScanner.Form4.components" NewName="SQLIScanner.Form4.&#x3;" />
+<Entry OldName="SQLIScanner.Form4.label1" NewName="SQLIScanner.Form4.&#x3;" />
+<Entry OldName="SQLIScanner.Form4.textBox1" NewName="SQLIScanner.Form4.&#x3;" />
+<Entry OldName="SQLIScanner.Form4.button1" NewName="SQLIScanner.Form4.&#x3;" />
+<Entry OldName="SQLIScanner.Properties.Resources.resourceMan" NewName="A.&#xA;.&#x3;" />
+<Entry OldName="SQLIScanner.Properties.Resources.resourceCulture" NewName="A.&#xA;.&#x3;" />
+<Entry OldName="SQLIScanner.Form1.Form1_Load(Object sender, EventArgs e)" NewName="SQLIScanner.Form1.&#x3;(Object &#x3;, EventArgs &#xA;)" />
+<Entry OldName="SQLIScanner.Form1.label3_Click(Object sender, EventArgs e)" NewName="SQLIScanner.Form1.&#xA;(Object &#x3;, EventArgs &#xA;)" />
+<Entry OldName="SQLIScanner.Form1.button4_Click(Object sender, EventArgs e)" NewName="SQLIScanner.Form1.&#x4;(Object &#x3;, EventArgs &#xA;)" />
+<Entry OldName="SQLIScanner.Form1.button6_Click(Object sender, EventArgs e)" NewName="SQLIScanner.Form1.&#x1;(Object &#x3;, EventArgs &#xA;)" />
+<Entry OldName="SQLIScanner.Form1.button1_Click(Object sender, EventArgs e)" NewName="SQLIScanner.Form1.&#xE;(Object &#x3;, EventArgs &#xA;)" />
+<Entry OldName="SQLIScanner.Form1.button2_Click(Object sender, EventArgs e)" NewName="SQLIScanner.Form1.&#x15;(Object &#x3;, EventArgs &#xA;)" />
+<Entry OldName="SQLIScanner.Form1.checkBox1_CheckedChanged(Object sender, EventArgs e)" NewName="SQLIScanner.Form1.&#x12;(Object &#x3;, EventArgs &#xA;)" />
+<Entry OldName="SQLIScanner.Form1.CanPing(String address)" NewName="SQLIScanner.Form1.&#x3;(String &#x3;)" />
+<Entry OldName="SQLIScanner.Form1.SaveFileStream(String path, Stream stream)" NewName="SQLIScanner.Form1.&#x3;(String &#x3;, Stream &#xA;)" />
+<Entry OldName="SQLIScanner.Form1.button7_Click(Object sender, EventArgs e)" NewName="SQLIScanner.Form1.&#x7;(Object &#x3;, EventArgs &#xA;)" />
+<Entry OldName="SQLIScanner.Form1.textBox2_TextChanged(Object sender, EventArgs e)" NewName="SQLIScanner.Form1.&#x16;(Object &#x3;, EventArgs &#xA;)" />
+<Entry OldName="SQLIScanner.Form1.comboBox1_SelectedIndexChanged(Object sender, EventArgs e)" NewName="SQLIScanner.Form1.&#x1F;(Object &#x3;, EventArgs &#xA;)" />
+<Entry OldName="SQLIScanner.Form1.listBox1_SelectedIndexChanged(Object sender, EventArgs e)" NewName="SQLIScanner.Form1.&#x17;(Object &#x3;, EventArgs &#xA;)" />
+<Entry OldName="SQLIScanner.Form1.label5_Click(Object sender, EventArgs e)" NewName="SQLIScanner.Form1.&#x13;(Object &#x3;, EventArgs &#xA;)" />
+<Entry OldName="SQLIScanner.Form1.button8_Click(Object sender, EventArgs e)" NewName="SQLIScanner.Form1.	(Object &#x3;, EventArgs &#xA;)" />
+<Entry OldName="SQLIScanner.Form1.button9_Click(Object sender, EventArgs e)" NewName="SQLIScanner.Form1.&#x18;(Object &#x3;, EventArgs &#xA;)" />
+<Entry OldName="SQLIScanner.Form1.button10_Click(Object sender, EventArgs e)" NewName="SQLIScanner.Form1. (Object &#x3;, EventArgs &#xA;)" />
+<Entry OldName="SQLIScanner.Form1.button11_Click(Object sender, EventArgs e)" NewName="SQLIScanner.Form1.&#xC;(Object &#x3;, EventArgs &#xA;)" />
+<Entry OldName="SQLIScanner.Form1.textBox1_TextChanged(Object sender, EventArgs e)" NewName="SQLIScanner.Form1.&#x19;(Object &#x3;, EventArgs &#xA;)" />
+<Entry OldName="SQLIScanner.Form1.comboBox2_SelectedIndexChanged(Object sender, EventArgs e)" NewName="SQLIScanner.Form1.&#x1A;(Object &#x3;, EventArgs &#xA;)" />
+<Entry OldName="SQLIScanner.Form1.label14_Click(Object sender, EventArgs e)" NewName="SQLIScanner.Form1.&#x10;(Object &#x3;, EventArgs &#xA;)" />
+<Entry OldName="SQLIScanner.Form1.label15_Click(Object sender, EventArgs e)" NewName="SQLIScanner.Form1.&#x8;(Object &#x3;, EventArgs &#xA;)" />
+<Entry OldName="SQLIScanner.Form1.label16_Click(Object sender, EventArgs e)" NewName="SQLIScanner.Form1.&#x1E;(Object &#x3;, EventArgs &#xA;)" />
+<Entry OldName="SQLIScanner.Form1.button3_Click(Object sender, EventArgs e)" NewName="SQLIScanner.Form1.&#x1C;(Object &#x3;, EventArgs &#xA;)" />
+<Entry OldName="SQLIScanner.Form1.InitializeComponent()" NewName="SQLIScanner.Form1.&#x3;()" />
+<Entry OldName="SQLIScanner.Form2.Form2_Load(Object sender, EventArgs e)" NewName="SQLIScanner.Form2.&#x3;(Object &#x3;, EventArgs &#xA;)" />
+<Entry OldName="SQLIScanner.Form2.Form_Closing(Object sender, FormClosingEventArgs e)" NewName="SQLIScanner.Form2.&#x3;(Object &#x3;, FormClosingEventArgs &#xA;)" />
+<Entry OldName="SQLIScanner.Form2.pictureBox1_Click(Object sender, EventArgs e)" NewName="SQLIScanner.Form2.&#xA;(Object &#x3;, EventArgs &#xA;)" />
+<Entry OldName="SQLIScanner.Form2.button1_Click(Object sender, EventArgs e)" NewName="SQLIScanner.Form2.&#x4;(Object &#x3;, EventArgs &#xA;)" />
+<Entry OldName="SQLIScanner.Form2.button2_Click(Object sender, EventArgs e)" NewName="SQLIScanner.Form2.&#x1;(Object &#x3;, EventArgs &#xA;)" />
+<Entry OldName="SQLIScanner.Form2.textBox1_TextChanged(Object sender, EventArgs e)" NewName="SQLIScanner.Form2.&#xE;(Object &#x3;, EventArgs &#xA;)" />
+<Entry OldName="SQLIScanner.Form2.InitializeComponent()" NewName="SQLIScanner.Form2.&#x3;()" />
+<Entry OldName="SQLIScanner.Form3.linkLabel1_LinkClicked(Object sender, LinkLabelLinkClickedEventArgs e)" NewName="SQLIScanner.Form3.&#x3;(Object &#x3;, LinkLabelLinkClickedEventArgs &#xA;)" />
+<Entry OldName="SQLIScanner.Form3.timer1_Tick(Object sender, EventArgs e)" NewName="SQLIScanner.Form3.&#x3;(Object &#x3;, EventArgs &#xA;)" />
+<Entry OldName="SQLIScanner.Form3.InitializeComponent()" NewName="SQLIScanner.Form3.&#x3;()" />
+<Entry OldName="SQLIScanner.Form4.button1_Click(Object sender, EventArgs e)" NewName="SQLIScanner.Form4.&#x3;(Object &#x3;, EventArgs &#xA;)" />
+<Entry OldName="SQLIScanner.Form4.InitializeComponent()" NewName="SQLIScanner.Form4.&#x3;()" />
+<Entry OldName="SQLIScanner.Program.Main()" NewName="A.&#x3;.&#x3;()" />
+<Entry OldName="SQLIScanner.Properties.Resources..ctor()" NewName="A.&#xA;..ctor()" />
+<Entry OldName="SQLIScanner.Properties.Resources.get_ResourceManager()" NewName="A.&#xA;.get_ResourceManager()" />
+<Entry OldName="SQLIScanner.Properties.Resources.get_Culture()" NewName="A.&#xA;.get_Culture()" />
+<Entry OldName="SQLIScanner.Properties.Resources.set_Culture(CultureInfo value)" NewName="A.&#xA;.set_Culture(CultureInfo value)" />
+<Entry OldName="SQLIScanner.Program" NewName="A.&#x3;" />
+<Entry OldName="SQLIScanner.Properties.Resources" NewName="A.&#xA;" />
+<Assembly Name="SQLIScanner"><Type Token="33554433" Name="&lt;Module&gt;" />
+<Method Token="100663297" Name="" Variables="" ParamCnt="0" />
+<Type Token="33554434" Name="SQLIScanner.Form1" />
+<Method Token="100663298" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663299" Name="Form1_Load" Variables="this;sender;e;V_0;V_1;V_2;V_3;" ParamCnt="3" />
+<Method Token="100663300" Name="label3_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663301" Name="button4_Click" Variables="this;sender;e;V_0;V_1;V_2;V_3;V_4;V_5;" ParamCnt="3" />
+<Method Token="100663302" Name="button6_Click" Variables="this;sender;e;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;V_12;V_13;" ParamCnt="3" />
+<Method Token="100663303" Name="button1_Click" Variables="this;sender;e;V_0;V_1;V_2;V_3;V_4;V_5;V_6;" ParamCnt="3" />
+<Method Token="100663304" Name="button2_Click" Variables="this;sender;e;V_0;V_1;V_2;V_3;V_4;V_5;V_6;" ParamCnt="3" />
+<Method Token="100663305" Name="checkBox1_CheckedChanged" Variables="this;sender;e;V_0;V_1;" ParamCnt="3" />
+<Method Token="100663306" Name="CanPing" Variables="address;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;" ParamCnt="1" />
+<Method Token="100663307" Name="PingHost" Variables="_HostURI;_PortNumber;V_0;V_1;V_2;V_3;" ParamCnt="2" />
+<Method Token="100663308" Name="SaveFileStream" Variables="this;path;stream;V_0;" ParamCnt="3" />
+<Method Token="100663309" Name="search_bing" Variables="this;pages;search;proxy;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;V_12;V_13;V_14;V_15;V_16;V_17;V_18;V_19;V_20;V_21;V_22;V_23;V_24;V_25;V_26;V_27;V_28;V_29;V_30;" ParamCnt="4" />
+<Method Token="100663310" Name="search_yahoo" Variables="this;pages;search;proxy;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;V_12;V_13;V_14;V_15;V_16;V_17;V_18;V_19;V_20;V_21;V_22;V_23;V_24;V_25;V_26;V_27;V_28;V_29;V_30;" ParamCnt="4" />
+<Method Token="100663311" Name="search_aol" Variables="this;pages;search;proxy;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;V_12;V_13;V_14;V_15;V_16;V_17;V_18;V_19;V_20;V_21;V_22;V_23;V_24;V_25;V_26;V_27;V_28;V_29;" ParamCnt="4" />
+<Method Token="100663312" Name="search_ask" Variables="this;pages;search;proxy;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;V_12;V_13;V_14;V_15;V_16;V_17;V_18;V_19;V_20;V_21;V_22;V_23;V_24;V_25;V_26;V_27;V_28;V_29;" ParamCnt="4" />
+<Method Token="100663313" Name="search_google" Variables="this;pages;search;proxy;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;V_12;V_13;V_14;V_15;V_16;V_17;V_18;V_19;V_20;V_21;V_22;V_23;V_24;V_25;V_26;V_27;V_28;V_29;" ParamCnt="4" />
+<Method Token="100663314" Name="CheckURLValid" Variables="this;source;V_0;V_1;V_2;V_3;V_4;" ParamCnt="2" />
+<Method Token="100663315" Name="URLValid" Variables="this;url;V_0;V_1;V_2;" ParamCnt="2" />
+<Method Token="100663316" Name="button7_Click" Variables="this;sender;e;V_0;V_1;V_2;V_3;V_4;" ParamCnt="3" />
+<Method Token="100663317" Name="textBox2_TextChanged" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663318" Name="scan_deep" Variables="this;url;proxy;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;V_12;V_13;V_14;V_15;V_16;V_17;V_18;V_19;V_20;V_21;" ParamCnt="3" />
+<Method Token="100663319" Name="scan_simple" Variables="this;url;proxy;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;V_12;V_13;V_14;V_15;V_16;V_17;" ParamCnt="3" />
+<Method Token="100663320" Name="comboBox1_SelectedIndexChanged" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663321" Name="listBox1_SelectedIndexChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663322" Name="label5_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663323" Name="button8_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663324" Name="button9_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663325" Name="button10_Click" Variables="this;sender;e;V_0;V_1;V_2;V_3;V_4;V_5;V_6;" ParamCnt="3" />
+<Method Token="100663326" Name="urldomain" Variables="this;url;V_0;V_1;V_2;V_3;" ParamCnt="2" />
+<Method Token="100663327" Name="button11_Click" Variables="this;sender;e;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;" ParamCnt="3" />
+<Method Token="100663328" Name="textBox1_TextChanged" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663329" Name="comboBox2_SelectedIndexChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663330" Name="label14_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663331" Name="label15_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663332" Name="label16_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663333" Name="button3_Click" Variables="this;sender;e;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;V_12;" ParamCnt="3" />
+<Method Token="100663334" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663335" Name="InitializeComponent" Variables="this;V_0;" ParamCnt="1" />
+<Field Token="67108865" Name="components" />
+<Field Token="67108866" Name="groupBox1" />
+<Field Token="67108867" Name="label2" />
+<Field Token="67108868" Name="label1" />
+<Field Token="67108869" Name="label4" />
+<Field Token="67108870" Name="button4" />
+<Field Token="67108871" Name="listBox1" />
+<Field Token="67108872" Name="label5" />
+<Field Token="67108873" Name="label6" />
+<Field Token="67108874" Name="listBox2" />
+<Field Token="67108875" Name="groupBox2" />
+<Field Token="67108876" Name="button2" />
+<Field Token="67108877" Name="button1" />
+<Field Token="67108878" Name="groupBox3" />
+<Field Token="67108879" Name="label8" />
+<Field Token="67108880" Name="label7" />
+<Field Token="67108881" Name="label10" />
+<Field Token="67108882" Name="label9" />
+<Field Token="67108883" Name="button6" />
+<Field Token="67108884" Name="checkBox1" />
+<Field Token="67108885" Name="listBox3" />
+<Field Token="67108886" Name="button7" />
+<Field Token="67108887" Name="textBox1" />
+<Field Token="67108888" Name="comboBox1" />
+<Field Token="67108889" Name="textBox2" />
+<Field Token="67108890" Name="numericUpDown1" />
+<Field Token="67108891" Name="groupBox4" />
+<Field Token="67108892" Name="listBox4" />
+<Field Token="67108893" Name="button9" />
+<Field Token="67108894" Name="button8" />
+<Field Token="67108895" Name="button11" />
+<Field Token="67108896" Name="button10" />
+<Field Token="67108897" Name="comboBox2" />
+<Field Token="67108898" Name="label11" />
+<Field Token="67108899" Name="label3" />
+<Field Token="67108900" Name="label13" />
+<Field Token="67108901" Name="label12" />
+<Field Token="67108902" Name="label16" />
+<Field Token="67108903" Name="label15" />
+<Field Token="67108904" Name="label14" />
+<Field Token="67108905" Name="button3" />
+<Type Token="33554436" Name="SQLIScanner.Form2" />
+<Method Token="100663337" Name=".ctor" Variables="this;captchaurl;" ParamCnt="2" />
+<Method Token="100663338" Name="get_CreateParams" Variables="this;V_0;V_1;" ParamCnt="1" />
+<Method Token="100663339" Name="Form2_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663340" Name="Form_Closing" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663341" Name="pictureBox1_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663342" Name="button1_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663343" Name="button2_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663344" Name="textBox1_TextChanged" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663345" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663346" Name="InitializeComponent" Variables="this;V_0;" ParamCnt="1" />
+<Field Token="67108906" Name="CP_NOCLOSE_BUTTON" />
+<Field Token="67108907" Name="components" />
+<Field Token="67108908" Name="pictureBox1" />
+<Field Token="67108909" Name="textBox1" />
+<Field Token="67108910" Name="label2" />
+<Field Token="67108911" Name="label1" />
+<Field Token="67108912" Name="button1" />
+<Field Token="67108913" Name="button2" />
+<Type Token="33554437" Name="SQLIScanner.Form3" />
+<Method Token="100663347" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663348" Name="linkLabel1_LinkClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663349" Name="timer1_Tick" Variables="this;sender;e;V_0;V_1;" ParamCnt="3" />
+<Method Token="100663350" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663351" Name="InitializeComponent" Variables="this;V_0;" ParamCnt="1" />
+<Field Token="67108914" Name="components" />
+<Field Token="67108915" Name="linkLabel1" />
+<Field Token="67108916" Name="label1" />
+<Field Token="67108917" Name="timer1" />
+<Field Token="67108918" Name="label2" />
+<Field Token="67108919" Name="label3" />
+<Type Token="33554439" Name="SQLIScanner.Form4" />
+<Method Token="100663358" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663359" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663360" Name="button1_Click" Variables="this;sender;e;V_0;V_1;V_2;V_3;V_4;" ParamCnt="3" />
+<Method Token="100663361" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663362" Name="InitializeComponent" Variables="this;V_0;" ParamCnt="1" />
+<Field Token="67108921" Name="allowRun" />
+<Field Token="67108922" Name="check" />
+<Field Token="67108923" Name="components" />
+<Field Token="67108924" Name="label1" />
+<Field Token="67108925" Name="textBox1" />
+<Field Token="67108926" Name="button1" />
+<Type Token="33554440" Name="SQLIScanner.Program" />
+<Method Token="100663363" Name="Main" Variables="" ParamCnt="0" />
+<Type Token="33554441" Name="SQLIScanner.Properties.Resources" />
+<Method Token="100663364" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663365" Name="get_ResourceManager" Variables="V_0;V_1;V_2;" ParamCnt="0" />
+<Method Token="100663366" Name="get_Culture" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663367" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Field Token="67108927" Name="resourceMan" />
+<Field Token="67108928" Name="resourceCulture" />
+<Type Token="33554442" Name="SQLIScanner.Properties.Settings" />
+<Method Token="100663368" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663369" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663370" Name="get_Default" Variables="V_0;" ParamCnt="0" />
+<Field Token="67108929" Name="defaultInstance" />
+<Type Token="33554435" Name="A.AssemblyInfoAttribute" />
+<Method Token="100663336" Name="" Variables="this;str;" ParamCnt="2" />
+</Assembly></Mappings>
